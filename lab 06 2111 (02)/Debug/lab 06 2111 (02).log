@@ -1,0 +1,8 @@
+﻿  lab 06 2111 (02).cpp
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(24,2): error C3861: 'getData': identifier not found
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(26,39): error C2664: 'double average_grade(int [][5])': cannot convert argument 1 from 'double [10][5]' to 'int [][5]'
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(26,28): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(10,8): message : see declaration of 'average_grade'
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(27,44): error C2664: 'void print_scores(std::string [],int [][5],double)': cannot convert argument 2 from 'double [10][5]' to 'int [][5]'
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(27,22): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\ali said\source\repos\lab 06 2111 (02)\lab 06 2111 (02).cpp(11,6): message : see declaration of 'print_scores'
