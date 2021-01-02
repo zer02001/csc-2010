@@ -1,0 +1,3 @@
+The number of juice bottles sold is: 35
+The price of the juice bottles is: 0.75
+The revenue made from selling juice Bottles: 26.25
