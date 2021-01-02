@@ -1,0 +1,3 @@
+﻿  pingponggame.cpp
+C:\Users\ali said\source\repos\pingponggame\pingponggame.cpp(157,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pingponggame.vcxproj -> C:\Users\ali said\source\repos\pingponggame\Debug\pingponggame.exe
